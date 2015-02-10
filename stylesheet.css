@@ -11,7 +11,7 @@ body {
 #main_header {
 	position: relative;
 	padding: 5% 0% 4% 4%;
-	font: "Lucida Console";
+	font-family: "Lucida Console";
 }
 p,h1,h2,h3 {
 	color: white;
@@ -21,7 +21,9 @@ p {
 	float: middle;
 	width: 70%;
 }
-
+#welcome {
+	padding: 0% 0% 2% 4%;
+}
 #fixed_footer {
 	position: fixed;
 	top: 0px;
