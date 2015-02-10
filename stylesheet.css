@@ -1,10 +1,22 @@
 body {
-<<<<<<< HEAD
 	padding-top: 50px;
-=======
-	padding-top: 30px;
-	<!-- background-color: rgb(255,51,51); -->
->>>>>>> origin/master
+	background-color: rgb(255,51,51);
+	font-family: Tahoma;
+	background-image: url("main_header.jpg");
+	background-repeat: no-repeat;
+	background-position: absolute;
+	background-size: cover;
+}
+#main_header {
+	position: relative;
+	padding: 1px;
+	color: white;
+}
+.welcome {
+	color: white;
+}
+.page_text {
+	color: white;
 }
 #fixed_footer {
 	position: fixed;
@@ -20,7 +32,6 @@ body {
     border-bottom: 1px solid rgba(0,0,0,0.9);
     color: white;
     font-size: 20px;
-    /* font-family: Roboto-Regular, Arial; */
 	box-shadow: 0px 1px 5px rgba(0,0,0,0.4);
 }
 #fixed_footer #footer_menu {
@@ -49,7 +60,6 @@ body {
     border-right: 1px solid rgba(0,0,0,0.4);
 	background: rgba(0,0,0,0.1);
     list-style: none;
-	font-family: Tahoma;
 }
 #fixed_footer li:hover {
     background: rgba(255,0,0,0.4);
