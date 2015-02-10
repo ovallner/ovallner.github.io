@@ -16,7 +16,7 @@ body {
 p,h1,h2,h3 {
 	color: white;
 }
-p,h1,h2,h3 {
+p,h2,h3 {
 	padding: 0% 0% 0% 15%;
 	float: middle;
 	width: 70%;
