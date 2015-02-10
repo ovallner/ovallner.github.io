@@ -7,6 +7,10 @@ body {
 	font-family: Tahoma;
 	background-color: black;
 }
+#main_header {
+	position: relative;
+	padding: 1px;
+}
 p,h1,h2,h3 {
 	color: white;
 }
@@ -15,10 +19,7 @@ p {
 	float: middle;
 	width: 70%;
 }
-#main_header {
-	position: relative;
-	padding: 1px;
-}
+
 #fixed_footer {
 	position: fixed;
 	top: 0px;
