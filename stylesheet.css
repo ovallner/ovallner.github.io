@@ -6,16 +6,17 @@ body {
 	padding-top: 50px;
 	font-family: Tahoma; -->
 }
-#main_header {
-	position: relative;
-	padding: 1px;
-}
 p,h1,h2,h3 {
 	color: rgb(255,50,50);
 }
 p {
 	margin: 20px 20px 20px 10px;
 	color: rgb(255,50,50);
+	float:left;
+}
+#main_header {
+	position: relative;
+	padding: 1px;
 }
 #fixed_footer {
 	position: fixed;
