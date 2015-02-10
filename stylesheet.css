@@ -16,13 +16,16 @@ body {
 p,h1,h2,h3 {
 	color: white;
 }
-p {
+p,h1,h2,h3 {
 	margin: 0% 0% 15% 15%;
 	float: middle;
 	width: 70%;
 }
 #welcome {
 	padding: 0% 0% 2% 17%;
+}
+.page-text {
+	background-color: gray;
 }
 #fixed_footer {
 	position: fixed;
