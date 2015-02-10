@@ -9,7 +9,7 @@ body {
 }
 #main_header {
 	position: relative;
-	padding: 4%;
+	padding: 4% 0% 0% 4%;
 }
 p,h1,h2,h3 {
 	color: white;
