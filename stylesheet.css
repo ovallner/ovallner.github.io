@@ -11,6 +11,10 @@ body {
 	padding: 1px;
 	color: black;
 }
+p {
+	margin: 20px 20px 20px 10px;
+	color: rgb(255,50,50);
+}
 .page-text {
 	color: black;
 }
