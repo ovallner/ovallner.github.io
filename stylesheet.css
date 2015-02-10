@@ -1,10 +1,10 @@
 body {
-	background-image: url("main_header.jpg");
+  <!--	background-image: url("main_header.jpg");
 	background-repeat: no-repeat;
 	background-position: absolute;
 	background-size: cover;
 	padding-top: 50px;
-	font-family: Tahoma;
+	font-family: Tahoma; -->
 }
 #main_header {
 	position: relative;
@@ -17,9 +17,6 @@ p,h1,h2,h3 {
 p {
 	margin: 20px 20px 20px 10px;
 	color: rgb(255,50,50);
-}
-.page-text {
-	color: black;
 }
 #fixed_footer {
 	position: fixed;
