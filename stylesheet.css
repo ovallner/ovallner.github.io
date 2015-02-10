@@ -12,8 +12,7 @@ p,h1,h2,h3 {
 }
 p {
 	margin: 2% 2% 2% 1%;
-	color: rgb(255,50,50);
-	float:left;
+	float: middle;
 	width: 70%;
 }
 #main_header {
