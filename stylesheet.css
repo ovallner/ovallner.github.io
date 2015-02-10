@@ -1,22 +1,21 @@
 body {
-	padding-top: 50px;
-	background-color: rgb(255,51,51);
-	font-family: Tahoma;
 	background-image: url("main_header.jpg");
 	background-repeat: no-repeat;
 	background-position: absolute;
 	background-size: cover;
+	padding-top: 50px;
+	font-family: Tahoma;
 }
 #main_header {
 	position: relative;
 	padding: 1px;
-	color: white;
+	color: black;
 }
 .welcome {
-	color: white;
+	color: black;
 }
 .page_text {
-	color: white;
+	color: black;
 }
 #fixed_footer {
 	position: fixed;
@@ -52,6 +51,9 @@ body {
 	border-right: 1px solid rgba(0,0,0,0.4);
 }
 #fixed_footer li {
+	position: center;
+	text-align: center;
+	vertical-align: center;
 	float: left;
 	height: 30px;
     margin: 0px;
