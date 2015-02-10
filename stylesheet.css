@@ -1,11 +1,10 @@
 body {
-  <!--	background-image: url("main_header.jpg");
+  	background-image: url("main_header.jpg");
 	background-repeat: no-repeat;
 	background-position: absolute;
-	background-size: cover; -->
+	background-size: cover;
 	padding-top: 50px;
 	font-family: Tahoma;
-	background-color: black;
 	font-size: larger;
 }
 #main_header {
