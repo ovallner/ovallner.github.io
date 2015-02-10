@@ -27,7 +27,7 @@ p,h2,h3 {
 	border-color: rgb(255,50,50);
 }
 .page-text {
-	background-color: #6B6B6B;
+	background-color: rgb(255,50,50);
 }
 #fixed_footer {
 	position: fixed;
