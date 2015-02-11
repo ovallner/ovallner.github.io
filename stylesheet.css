@@ -29,6 +29,7 @@ p,h2,h3 {
 .page-text {
 	background-color: rgb(255,50,50);
 }
+/*****DROP DOWN MENU STARTS**********/
 /* .drop-menu {
     display: block;
     margin-right: auto;
@@ -84,6 +85,7 @@ p,h2,h3 {
         height: 22px;
         padding: 8px 0;
     }
+/*****DROP DOWN MENU ENDS******/
 #fixed_footer {
 	position: fixed;
 	top: 0px;
