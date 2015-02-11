@@ -29,7 +29,7 @@ p,h2,h3 {
 .page-text {
 	background-color: rgb(255,50,50);
 }
-.drop-menu {
+/* .drop-menu {
     display: block;
     margin-right: auto;
     margin-left: auto;
@@ -42,7 +42,7 @@ p,h2,h3 {
     background: #fff;
     cursor: pointer;
     border: 1px solid #f6f0e4;
-}
+} */
 .drop-menu:hover .sub-menu {
     display: inline-block;
 }
