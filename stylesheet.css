@@ -29,6 +29,20 @@ p,h2,h3 {
 .page-text {
 	background-color: rgb(255,50,50);
 }
+.drop-menu {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: left;
+    padding: 10px 10px;
+    font-size: 22px;
+    height: 25px;
+    max-height: 25px;
+    width: 400px;
+    background: #fff;
+    cursor: pointer;
+    border: 1px solid #f6f0e4;
+}
 #fixed_footer {
 	position: fixed;
 	top: 0px;
