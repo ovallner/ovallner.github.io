@@ -76,17 +76,12 @@ p,h2,h3 {
 	box-shadow: 0px 1px 5px rgba(0,0,0,0.4);
 }
 .sub-menu li {
-	position: center;
-	text-align: center;
-	vertical-align: center;
-	float: left;
-	height: 30px;
-    margin: 0px;
-    padding: 10px;
-    border: none;
-    border-right: 1px solid rgba(0,0,0,0.4);
-	background: rgba(0,0,0,0.1);
-    list-style: none;
+        list-style-type: none;
+        display: block;
+        border-bottom: 1px dotted #eaeaea;
+        font-size: 19px;
+        height: 22px;
+        padding: 8px 0;
     }
 #fixed_footer {
 	position: fixed;
