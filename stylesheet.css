@@ -82,7 +82,7 @@ p,h2,h3 {
     font-size: 20px;
 	box-shadow: 0px 1px 5px rgba(0,0,0,0.4);
 }
-.submenu ul li {
+#footer_menu ul li {
 	float: none;
 } 
 .sub-menu li {
