@@ -36,7 +36,8 @@ p,h2,h3 {
 }
 .sub-menu {
 	display: none;
-	position: absolute;
+	position: relative;
+	float: left;
 	/*top: 0px;
 	left: 0px;
 	right: 0px; 
