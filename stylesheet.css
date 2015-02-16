@@ -125,7 +125,9 @@ p,h2,h3 {
 	border-right: 1px solid rgba(0,0,0,0.4);
 }
 #fixed_footer li {
-	position: center;
+	position: absolute;
+	left: 0px;
+	top: 0px;
 	text-align: center;
 	vertical-align: center;
 	float: left;
