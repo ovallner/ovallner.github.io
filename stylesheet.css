@@ -36,7 +36,6 @@ p,h2,h3 {
 	background: rgba(255,255,255,0);
 	list-style:none;
 	position:absolute;
-	left:-9999px;
 }
 .drop-menu ul li {
 	padding-top:1px;
