@@ -32,8 +32,8 @@ p,h2,h3 {
 /*****DROP DOWN MENU STARTS**********/
 
 .drop-menu ul {
-	background: #fff;
-	background: rgba(255,255,255,0);
+	background: #333;
+    	background: rgba(0,0,153,0.8);
 	list-style:none;
 	position:absolute;
 	visibility: hidden;
