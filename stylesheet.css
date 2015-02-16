@@ -126,8 +126,7 @@ p,h2,h3 {
 }
 #fixed_footer li {
 	position: center;
-	left: 0px;
-	top: 0px;
+	
 	text-align: center;
 	vertical-align: center;
 	float: left;
