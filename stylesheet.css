@@ -108,7 +108,7 @@ p,h2,h3 {
 #fixed_footer #footer_menu {
 	float: left;
     list-style-type: none;
-    position: fixed;
+    position: absolute;
 	top: 0px;
 	left: 0px;
 	right: 0px;
