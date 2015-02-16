@@ -36,6 +36,7 @@ p,h2,h3 {
 	background: rgba(255,255,255,0);
 	list-style:none;
 	position:absolute;
+	visibility: hidden;
 }
 .drop-menu ul li {
 	padding-top:1px;
@@ -46,7 +47,7 @@ p,h2,h3 {
 }
 
 .drop-menu li:hover ul {
-	left:0;
+	visibility: visible;
 }
 
 .sub-menu {
