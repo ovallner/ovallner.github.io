@@ -38,7 +38,7 @@ p,h2,h3 {
 	position:absolute;
 	/*right: 2px;*/
 	top: 14px; 
-	visibility: hidden;
+	display: none;
 	float: left;
 	width: 100%;
 }
@@ -51,7 +51,9 @@ p,h2,h3 {
 }
 
 .drop-menu li:hover ul {
-	visibility: visible;
+	display: block;
+	position: absolute;
+	margin: 0 0 0 -15px;
 }
 
 .sub-menu {
